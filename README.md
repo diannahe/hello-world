@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+I can't believe I'm actually doing this.
